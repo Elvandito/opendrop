@@ -1,0 +1,6 @@
+{
+  "name": "OpenDrop",
+  "description": "An open-source alternative to AirDrop for secure local network file and message sharing between Android devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
