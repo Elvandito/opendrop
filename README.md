@@ -14,6 +14,10 @@ OpenDrop is an open-source, local network file and message sharing application f
 - Android 6.0 (API level 23) or higher
 - Both devices must be connected to the same Wi-Fi network
 
+## Installation
+
+You can install OpenDrop directly by downloading the latest APK from the [Releases](https://github.com/Elvandito/OpenDrop/releases) page.
+
 ## Building from Source
 
 1. Clone the repository:
